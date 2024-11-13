@@ -36,7 +36,7 @@ nav a{
 }
 /*Estilo pie de página*/
 footer{
-    background-color: gray;
+    background-color: rgb(128, 128, 128);
     text-align: center;
     padding: 10px;
     margin-top: 20px;
