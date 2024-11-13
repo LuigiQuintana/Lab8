@@ -5,14 +5,20 @@ header{
     text-align: center;
     color:rgb(3, 3, 3);
 }
-/*Estilo para la barra de navegación*/
-nav a{
-    color:blue;
-    text-decoration: lightseagreen;
-    text-align: center;
-    font-weight: bold;
-}nav a:hover{
-    color: blueviolet;
+/*Estilo para la barra de navegación*/ 
+nav {  
+    background-color: #4682b4; /* Un azul fuerte */  
+    text-align: center; /* Centra los enlaces */  
+}  
+nav a {  
+    color: blue; /* Color normal de los enlaces */  
+    text-decoration: none; /* Sin subrayado */  
+    font-weight: bold; /* Texto en negrita */  
+    padding: 14px 20px; /* Añadir espaciado a los enlaces */  
+    display: inline-block; /* Mostrar enlaces como bloques en línea */  
+}  
+nav a:hover {  
+    color: lightseagreen; /* Color de texto al pasar el mouse */  
 }
 /*Estilo para la sección principal*/
 .contenedor{
