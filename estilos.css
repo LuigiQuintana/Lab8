@@ -26,11 +26,13 @@ nav a{
 }
 .contenedor h2{
     color: darkgreen;
+    text-align: center;
 }
 .contenedor p{
     color: brown;
     font-size: 16px;
     line-height: 1.6;
+    text-align: center;
 }
 /*Estilo pie de página*/
 footer{
