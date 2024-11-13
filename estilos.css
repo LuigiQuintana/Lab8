@@ -3,12 +3,13 @@ header{
     background-color: aqua;
     padding: 20px;
     text-align: center;
-    color:white;
+    color:rgb(3, 3, 3);
 }
 /*Estilo para la barra de navegación*/
 nav a{
     color:blue;
     text-decoration: lightseagreen;
+    text-align: center;
     font-weight: bold;
 }nav a:hover{
     color: blueviolet;
