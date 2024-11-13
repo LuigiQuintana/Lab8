@@ -17,8 +17,9 @@ nav a {
     padding: 14px 20px; /* Añadir espaciado a los enlaces */  
     display: inline-block; /* Mostrar enlaces como bloques en línea */  
 }  
-nav a:hover {  
+nav a:hover {   
     color: lightseagreen; /* Color de texto al pasar el mouse */  
+    text-decoration: underline; /* Subrayado al pasar el mouse */  
 }
 /*Estilo para la sección principal*/
 .contenedor{
